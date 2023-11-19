@@ -1,4 +1,24 @@
-<h1>Hi, I'm Basheer! <br/> <a href="https://www.linkedin.com/in/syed-basheer-ahamed/">Cybersecurity Professional</a>
+<h1 align="center">Hi 👋, I'm Basheer</h1>
+<h3 align="center">Cybersecurity Professional in GRC</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-bash33r-here" alt="its-bash33r-here" /></a> </p>
+
+[![its-bash33r-here's GitHub | Stats](https://stats.quine.sh/its-bash33r-here/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=its-bash33r-here)
+
+- 🌱 I’m currently learning **PCI DSS**
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-bash33r-here&show_icons=true&locale=en&layout=compact" alt="its-bash33r-here" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=its-bash33r-here&show_icons=true&locale=en" alt="its-bash33r-here" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-bash33r-here&" alt="its-bash33r-here" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 <h2>👨‍💻 Projects:</h2>
 
