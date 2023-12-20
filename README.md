@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basheer</h1>
 <h3 align="center">Cybersecurity Professional in GRC</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-bash33r-here" alt="its-bash33r-here" /></a> </p>
 
 [![its-bash33r-here's GitHub | Stats](https://stats.quine.sh/its-bash33r-here/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=its-bash33r-here)
 
