@@ -18,6 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<h2>👨‍💻 PCI-DSS Blogs:</h2>
+- [Outsourcing PCI DSS Compliance](https://bash33r.hashnode.dev/outsourcing-pci-dss-compliance)
+<b>
 
 <h2>👨‍💻 Projects:</h2>
 
