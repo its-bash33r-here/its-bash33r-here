@@ -21,6 +21,8 @@
 <h2>👨‍💻 PCI-DSS Blogs:</h2>
 - [Outsourcing PCI DSS Compliance](https://bash33r.hashnode.dev/outsourcing-pci-dss-compliance)
 - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 Projects:</h2>
 
