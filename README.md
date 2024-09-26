@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Basheer</h1>
-<h3 align="center">Cybersecurity Professional in GRC</h3>
+<h3 align="center">Ahamed</h3>
 
 
 [![its-bash33r-here's GitHub | Stats](https://stats.quine.sh/its-bash33r-here/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=its-bash33r-here)
 
-- 🌱 I’m currently learning **PCI DSS**
+- 🌱 I’m currently learning **AI**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
@@ -21,15 +21,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>yet to add here</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
