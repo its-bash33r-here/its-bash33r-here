@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Basheer</h1>
-<h3 align="center">Ahamed</h3>
+<h1 align="center">Hi 👋, I'm Basheer Ahamed</h1>
+<h3 align="center"></h3>
 
 
 [![its-bash33r-here's GitHub | Stats](https://stats.quine.sh/its-bash33r-here/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=its-bash33r-here)
