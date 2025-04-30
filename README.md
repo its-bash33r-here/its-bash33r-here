@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Basheer Ahamed</h1>
 <h3 align="center"></h3>
 
-
-[![its-bash33r-here's GitHub | Stats](https://stats.quine.sh/its-bash33r-here/github?theme=dark)](http://localhost:3000?utm_source=widgets&utm_campaign=its-bash33r-here)
-
-- 🌱 I’m currently learning **AI**
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
@@ -19,16 +14,11 @@
 <p align="left">
 </p>
 
-<h2>👨‍💻 Projects:</h2>
-
-- <b>yet to add here</b>
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] c
+[<img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/bash33r_here
