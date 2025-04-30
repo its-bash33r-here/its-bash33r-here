@@ -10,10 +10,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=its-bash33r-here&" alt="its-bash33r-here" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="YouTube" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
