@@ -104,7 +104,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/37b009b52b3a9b092a6c8c4b0c0b0b0b0b0b0b0b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7324076657273656c2e737667" alt="vercel" width="40" height="40"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="netlify" width="40" height="40"/>
@@ -117,6 +117,9 @@
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://developer.apple.com/xcode-cloud/" target="_blank" rel="noreferrer">
+    <img src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128.png" alt="xcode-cloud" width="40" height="40"/>
   </a>
 </p>
 
@@ -157,6 +160,9 @@
   </a>
   <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://clarity.microsoft.com/favicon.ico" alt="clarity" width="40" height="40"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original-wordmark.svg" alt="expo-go" width="40" height="40"/>
   </a>
 </p>
 
