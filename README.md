@@ -104,7 +104,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/37b009b52b3a9b092a6c8c4b0c0b0b0b0b0b0b0b/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7324076657273656c2e737667" alt="vercel" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" width="120" height="40"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" alt="netlify" width="40" height="40"/>
@@ -119,7 +119,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/xcode-cloud/" target="_blank" rel="noreferrer">
-    <img src="https://developer.apple.com/assets/elements/icons/xcode-cloud/xcode-cloud-128x128.png" alt="xcode-cloud" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Xcode%20Cloud-007ACC?style=for-the-badge&logo=xcode&logoColor=white" alt="xcode-cloud" width="120" height="40"/>
   </a>
 </p>
 
@@ -135,31 +135,31 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mapbox/mapbox-original-wordmark.svg" alt="mapbox" width="40" height="40"/>
   </a>
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white" alt="huggingface" width="120" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original-wordmark.svg" alt="openai" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="openai" width="120" height="40"/>
   </a>
   <a href="https://anthropic.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/10085275?s=200&v=4" alt="anthropic" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Anthropic-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="anthropic" width="120" height="40"/>
   </a>
   <a href="https://replicate.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/6951244?s=200&v=4" alt="replicate" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Replicate-FF6B6B?style=for-the-badge&logo=replicate&logoColor=white" alt="replicate" width="120" height="40"/>
   </a>
   <a href="https://fal.ai/" target="_blank" rel="noreferrer">
-    <img src="https://fal.ai/favicon.ico" alt="fal" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Fal-FF6B6B?style=for-the-badge&logo=fal&logoColor=white" alt="fal" width="120" height="40"/>
   </a>
   <a href="https://openrouter.ai/" target="_blank" rel="noreferrer">
-    <img src="https://openrouter.ai/favicon.ico" alt="openrouter" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/OpenRouter-FF6B6B?style=for-the-badge&logo=openrouter&logoColor=white" alt="openrouter" width="120" height="40"/>
   </a>
   <a href="https://revenuecat.com/" target="_blank" rel="noreferrer">
-    <img src="https://revenuecat.com/favicon.ico" alt="revenuecat" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/RevenueCat-FF6B6B?style=for-the-badge&logo=revenuecat&logoColor=white" alt="revenuecat" width="120" height="40"/>
   </a>
   <a href="https://superwall.com/" target="_blank" rel="noreferrer">
-    <img src="https://superwall.com/favicon.ico" alt="superwall" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/SuperWall-FF6B6B?style=for-the-badge&logo=superwall&logoColor=white" alt="superwall" width="120" height="40"/>
   </a>
   <a href="https://clarity.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://clarity.microsoft.com/favicon.ico" alt="clarity" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/Microsoft%20Clarity-FF6B6B?style=for-the-badge&logo=microsoft&logoColor=white" alt="clarity" width="120" height="40"/>
   </a>
   <a href="https://expo.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original-wordmark.svg" alt="expo-go" width="40" height="40"/>
